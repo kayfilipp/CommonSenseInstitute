@@ -1,0 +1,6 @@
+.idea
+.venv
+scratch.py
+main.py
+*.pyc
+*.xml
