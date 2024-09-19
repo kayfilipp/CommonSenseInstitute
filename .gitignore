@@ -4,3 +4,4 @@ scratch.py
 main.py
 *.pyc
 *.xml
+local_config.py
